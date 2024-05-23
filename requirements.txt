@@ -1,0 +1,6 @@
+streamlit
+numpy
+scikit-learn
+nba_api
+pandas
+requests_cache
